@@ -2,7 +2,7 @@
 
 # Positive Unlabeled Reading Course
 
-## Overview
+## Overview (Winter 2022)
 
 This course aims to provide an introduction to positive-unlabeled learning.  As a starting point, we will review the positive-unlabeled learning literature.  We will then work on a method for positive-unlabeled learning when a surrogate outcome is available. You will be responsible for running simulation studies to evaluate the performance of the method and to build an R package to be submitted to CRAN. You will also contribute to a manuscript for publication.  
 
