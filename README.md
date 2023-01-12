@@ -10,10 +10,10 @@ This course aims to provide an introduction to positive-unlabeled learning.  As 
 | Week | Assignment                            |
 |------|---------------------------------------|
 | 1    | [PU Learning Survey](https://link.springer.com/article/10.1007/s10994-020-05877-5)  |
-| 2    |   [Zhang et al](https://academic.oup.com/jamia/article-abstract/27/1/119/5625123) (2020) |
-| 3   |  [Zhang et al](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.8773) (2022); Review R Code|
-| 4   |   [Zhang et al](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.8773) (2022); Run First Simulation Study                       |
-| 5 |    [Gronsbell et all](https://pubmed.ncbi.nlm.nih.gov/30353541/); Simulation Study   |
+| 2    |   [Zhang et al](https://academic.oup.com/jamia/article-abstract/27/1/119/5625123) (2020); [Zhang et al](https://academic.oup.com/biostatistics/article-abstract/23/3/844/6146184) (2022) |
+| 3   |  [Gronsbell et al](https://pubmed.ncbi.nlm.nih.gov/30353541/);  Review R Code|
+| 4   |  Run First Simulation Study                       |
+| 5 |    Simulation Study   |
 | 6   |   Draft PU Method; Simulation Study                           |
 | 7    | READING WEEK                                          |
 | 8    | Draft PU Method; Simulation Study |
