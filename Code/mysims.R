@@ -1,6 +1,6 @@
 source('SAPUL-functions.R')
 
-run_sims <- function(n_sims = 2, prev = 0.3, n, p, corr=F, col=1){
+run_sims <- function(n_sims = 200, prev = 0.3, n, p, corr=F, col=1){
 
   all_auc <- c()
   true_beta_all <- c()
